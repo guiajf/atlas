@@ -2,6 +2,8 @@
 
 ## Análise de dados na linha de comando 
 
+### Introdução
+
 Jupyter Lab é uma ferramenta formidável, com ela você pode utilizar kernels de diferentes linguagens.<br>
 Já testei kernels do Python, Octave e Bash.
 

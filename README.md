@@ -1,5 +1,7 @@
 # Atlas da Violência 2024
 
+## Análise de dados na linha de comando 
+
 Jupyter Lab é uma ferramenta formidável, com ela você pode utilizar kernels de diferentes linguagens.<br>
 Já testei kernels do Python, Octave e Bash.
 

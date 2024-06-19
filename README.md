@@ -14,3 +14,5 @@ em parceria com o Fórum Brasileiro de Segurança Pública (FBSP).
 Para instalar o JupyterLab no Ubuntu 22.04, utilizei este tutorial do [*Real Python*](https://realpython.com/using-jupyterlab/#linux-1).
 
 Para instalar o kernel do Bash no JupyterLab, segui as dicas deste blog da [SaturnCloud](https://saturncloud.io/blog/how-to-use-bash-commands-in-jupyter-notebook/).
+
+### Recursos

@@ -4,5 +4,6 @@ Em meu último experimento, empreguei **awk** para analisar a série histórica 
 produzida pelo Instituto de Pesquisa Econômica Aplicada (IPEA), 
 em parceria com o Fórum Brasileiro de Segurança Pública (FBSP). 
 
-Para instalar o JupyterLab no Ubuntu 22.04, utilizei o tutorial do *Real Python*, disponível em:
-https://realpython.com/using-jupyterlab/#linux-1
+Para instalar o JupyterLab no Ubuntu 22.04, utilizei o tutorial do [*Real Python*](https://realpython.com/using-jupyterlab/#linux-1).
+
+Para instalar o kernel do Bash no JupyterLab, segui as dicas de um blog da [SaturnCloud](https://saturncloud.io/blog/how-to-use-bash-commands-in-jupyter-notebook/).

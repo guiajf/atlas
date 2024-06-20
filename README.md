@@ -98,7 +98,7 @@ Quando ordenamos os municípios do Estado da Bahia em ordem descendente, pela ta
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/ea79b36e-a85a-4cd8-befd-a643f8248049)
 
-O "campeão" nacional nessa triste estatística é outro:
+O "campeão" nacional nessa triste estatística seria outro:
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/0d818c7e-0071-42af-9205-e4e3f2db401a)
 

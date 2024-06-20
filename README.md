@@ -21,8 +21,12 @@ Para instalar o kernel do Bash no JupyterLab, segui as dicas deste blog da [Satu
 
 ### Objetivo
 
+Com o intuito de demonstrar a eficácia do **awk** para processamento de dados, utilizamos como exemplo as estatísticas do Atlas da Violência 2024. 
+
 **De acordo com notícia veiculada pelo [G1 Bahia](https://g1.globo.com/ba/bahia/noticia/2024/06/18/atlas-da-violencia-2024-santo-antonio-de-jesus.ghtml#:~:text=A%20cidade%20de%20Santo%20Ant%C3%B4nio,de%20Seguran%C3%A7a%20P%C3%BAblica%20(FBSP).), Santo Antônio de Jesus, município situado no recôncavo baiano, possui a maior taxa de homicídios do Brasil.**
 
-Com o intuito de demonstrar a eficácia do **awk** para processamento de dados, utilizamos como exemplo as estatísticas do Atlas da Violência 2024. 
+Fomos lá conferir o resultado.
+
+
 
 

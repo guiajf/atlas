@@ -53,6 +53,47 @@ A taxa de homicídios é um indicador calculado de acordo com a fórmula:<br>
 
 Utilizou-se a tabela de população divulgada pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=37225&t=resultados) correspondente ao censo demográfico realizado em 2022.
 
+### Visualizamos a tabela do censo demográfico 2022
+
+![image](https://github.com/guiajf/atlas/assets/152413615/bdd8dc17-6811-44f5-98c3-1a2d7870e7d0)
+
+Removemos a primeira, a sexta e a sétima colunas e substituímos o separador de milhar.
+
+Listamos os municípios menos populosos:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/6eaa5cb4-eb14-44bf-8312-9344cee2b402)
+
+Listamos os municípios mais populosos (metrópoles):
+
+![image](https://github.com/guiajf/atlas/assets/152413615/0070241e-e5db-437c-aed7-aa94874e290c)
+
+### Junção das tabelas
+
+Na tabela "taxa_homicidios_2024.csv", os dois primeiros dígitos do código do município contém o Código da UF, de acordo com a tabela do IBGE. Na tabela do Censo 2022, os códigos da UF e do Município são apresentados em colunas separadas.
+
+Primeiro, salvamos as modificações anteriores em um arquivo temporário:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/8f913c32-e789-4cb7-a5bf-455ba6ecb069)
+
+Depois, unificamos os códigos da UF e Município em uma nova coluna, para padronizar a disposição das duas tabelas:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/ff75aaba-026b-4e61-8640-72eb2aadecf1)
+
+Salvamos a saída em um novo arquivo e removemos o arquivo temporário:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/d8cf2ee2-84b5-4ff1-8803-4efec96a4fd6)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

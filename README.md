@@ -25,6 +25,10 @@ Com o intuito de demonstrar a eficácia do **awk** para processamento de dados, 
 
 De acordo com notícia veiculada pelo [G1 Bahia](https://g1.globo.com/ba/bahia/noticia/2024/06/18/atlas-da-violencia-2024-santo-antonio-de-jesus.ghtml#:~:text=A%20cidade%20de%20Santo%20Ant%C3%B4nio,de%20Seguran%C3%A7a%20P%C3%BAblica%20(FBSP).), Santo Antônio de Jesus, município situado no recôncavo baiano, possui a maior taxa de homicídios do Brasil, em 2022.
 
+![oglobo_1](https://github.com/guiajf/atlas/assets/152413615/f994c9b3-439b-4938-b6fa-16a9ca88778e)
+
+![oglobo_2](https://github.com/guiajf/atlas/assets/152413615/4c02035b-46ff-4cf4-8c3d-8038f806aeec)
+
 Então fomos conferir o resultado.
 
 ### Processamento

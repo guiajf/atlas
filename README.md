@@ -49,7 +49,7 @@ a quarta e última, o valor - que corresponde à taxa de homicídios apurada.*
 ### Cálculo da taxa de homicídios
 
 A taxa de homicídios é um indicador calculado de acordo com a fórmula:<br>
-<center>$$\left(Óbitos/População * 100.000\right)$$<br><br>
+<center>$\`Óbitos/População * 100.000\`$<br><br>
 
 Utilizou-se a tabela de população divulgada pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=37225&t=resultados) correspondente ao censo demográfico realizado em 2022.
 

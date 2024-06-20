@@ -27,6 +27,13 @@ De acordo com notícia veiculada pelo [G1 Bahia](https://g1.globo.com/ba/bahia/n
 
 Então fomos conferir o resultado.
 
+### Processamento
+
+Com um ligeiro intervalo, as séries históricas vão de 1989 a 1995 e de 2000 a 2022:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/3d2fcb48-6dae-4cab-92b6-1954cb9625e8)
+
+
 
 
 

@@ -53,7 +53,7 @@ A taxa de homicídios é um indicador calculado de acordo com a fórmula:<br>
 
 Utilizou-se a tabela de população divulgada pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=37225&t=resultados) correspondente ao censo demográfico realizado em 2022.
 
-### Visualizamos a tabela do censo demográfico 2022
+### Tabela do censo demográfico 2022
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/bdd8dc17-6811-44f5-98c3-1a2d7870e7d0)
 
@@ -91,6 +91,9 @@ Salvamos a saída em um novo arquivo:
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/52dbc6d4-253b-45ad-a82e-d599f4bcebe1)
 
+
+### Classificação
+
 Quando ordenamos os municípios do Estado da Bahia em ordem descendente, pela taxa de homicídios, para o ano de 2022, os dados apresentam anomalias:
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/ea79b36e-a85a-4cd8-befd-a643f8248049)
@@ -102,6 +105,10 @@ O "campeão" nacional nessa triste estatística é outro:
 Dentre os municípios com população de 50 a 100 mil habitantes, o mais violento seria Santa Inês/MA:
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/d5be12f5-494a-422d-b0cd-918973c34e37)
+
+### Considerações finais
+
+Acreditamos que possa haver alguma inconsistência na formatação da saída ou no cálculo da taxa para alguns municípios, que não conseguimos identificar.
 
 
 

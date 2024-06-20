@@ -4,8 +4,7 @@
 
 ### Introdução
 
-Jupyter Lab é uma ferramenta formidável, com ela você pode utilizar kernels de diferentes linguagens.<br>
-Já testei kernels do Python, Octave e Bash.
+Jupyter Lab é uma ferramenta formidável, com ela você pode utilizar kernels de diferentes linguagens. Já testei kernels do Python, Octave e Bash.
 
 Em meu último experimento, empreguei **awk** para analisar a série histórica das taxas de homicídio fis municípios brasileiros, produzida pelo Instituto de Pesquisa Econômica Aplicada (IPEA), 
 em parceria com o Fórum Brasileiro de Segurança Pública (FBSP). 

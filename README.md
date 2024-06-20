@@ -83,6 +83,31 @@ Salvamos a saída em um novo arquivo e removemos o arquivo temporário:
 
 ![image](https://github.com/guiajf/atlas/assets/152413615/d8cf2ee2-84b5-4ff1-8803-4efec96a4fd6)
 
+Adicionamos a coluna "pop_total" da tabela do Censo 2022 ao arquivo que contém a tabela da taxa de homicídios:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/d248c1fc-3176-420a-8ab9-bd506ef8fe93)
+
+Salvamos a saída em um novo arquivo:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/52dbc6d4-253b-45ad-a82e-d599f4bcebe1)
+
+Quando ordenamos os municípios do Estado da Bahia em ordem descendente, pela taxa de homicídios, para o ano de 2022, os dados apresentam anomalias:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/ea79b36e-a85a-4cd8-befd-a643f8248049)
+
+O "campeão" nacional nessa triste estatística é outro:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/0d818c7e-0071-42af-9205-e4e3f2db401a)
+
+Dentre os municípios com população de 50 a 100 mil habitantes, o mais violento seria Santa Inês/MA:
+
+![image](https://github.com/guiajf/atlas/assets/152413615/d5be12f5-494a-422d-b0cd-918973c34e37)
+
+
+
+
+
+
 
 
 

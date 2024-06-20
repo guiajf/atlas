@@ -38,7 +38,7 @@ A tabela da série histórica possui a seguinte estrutura:
 ![image](https://github.com/guiajf/atlas/assets/152413615/715a609c-5a0e-4d72-96dc-d3ea3320aa94)
 
 
-**Descrição da tabela:**
+**Descrição da tabela de homicídios:**
 
 *A tabela contém quatro colunas:<br>
 a primeira informa o código do município, de acordo com o padrão do IBGE;<br>

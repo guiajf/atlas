@@ -113,7 +113,7 @@ Dentre os municípios com população de 50 a 100 mil habitantes, o mais violent
 ### Considerações finais
 
 Acreditamos que possa haver alguma inconsistência na formatação da saída ou no cálculo da taxa para alguns municípios, que não conseguimos identificar.<br>
-Ou estamos completamente enganados.
+
 
 
 

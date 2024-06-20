@@ -29,7 +29,7 @@ De acordo com notícia veiculada pelo [G1 Bahia](https://g1.globo.com/ba/bahia/n
 
 ![oglobo_2](https://github.com/guiajf/atlas/assets/152413615/4c02035b-46ff-4cf4-8c3d-8038f806aeec)
 
-Então fomos conferir o resultado.
+**Então fomos conferir o resultado.**
 
 ### Processamento
 

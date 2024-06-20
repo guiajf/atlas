@@ -35,14 +35,15 @@ Com um ligeiro intervalo, as séries históricas vão de 1989 a 1995 e de 2000 a
 
 A tabela da série histórica possui a seguinte estrutura:
 
-![image](https://github.com/guiajf/atlas/assets/152413615/83f4211e-e877-473a-a6a7-ad2979cce151)
+![image](https://github.com/guiajf/atlas/assets/152413615/715a609c-5a0e-4d72-96dc-d3ea3320aa94)
+
 
 **Descrição da tabela:**
 
-*A tabela contém quatro colunas:
-a primeira informa o código do município, de acordo com o padrão do IBGE;
-a segunda, o nome do município;
-a terceira, o período - que corresponde ao ano da apuração;
+*A tabela contém quatro colunas:<br>
+a primeira informa o código do município, de acordo com o padrão do IBGE;<br>
+a segunda, o nome do município;<br>
+a terceira, o período - que corresponde ao ano da apuração;<br>
 a quarta e última, o valor - que corresponde à taxa de homicídios apurada.*
 
 
